@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chishty Khusro</h1>
+<h1 align="center">Hi 👋, I'm Khusro Chishty</h1>
 <h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | GitOps</h3>
 
 ---
